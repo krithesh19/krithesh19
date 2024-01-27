@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi 👋, I'm KRITHESH</h1><img align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png">
-
+<h1 align="center">Hi 👋, I'm KRITHESH <img align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png"></h1>
 
 <h3 align="center">A passionate budding DATA SCIENTIST from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
