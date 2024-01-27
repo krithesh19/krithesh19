@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/krithesh19](https://github.com/krithesh19?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/krithesh19?tab=repositories](https://github.com/krithesh19?tab=repositories)
 
 - 📫 How to reach me **kritheshjr1907@gmail.com**
 
