@@ -1,6 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">
-  <h1 align="center">Hi <img align="middle" alt="Wave" width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm KRITHESH</h1>
+ <h1 align="center">Hi <img align="middle" alt="Wave" width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm KRITHESH</h1>
+<p align="center">A 4th-year student pursuing Bachelors in Computer Science with a specialization in datascience and AI from MGR university. I am a Data Science enthusiast, Baller 🏀, and a Photographer.</p>
+
 
 
   <img align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png">
@@ -12,7 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYzMzQ3NDksIm5iZiI6MTcwNjMzNDQ0OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI3VDA1NDcyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1ZDZiYjllZmE5MjcwZTY0YTA0MDY0NTU0ZGRkNjQ4NzdmZjVjYjViYjdjYjdiZGM0ZDBlZjhjZTkxNTU3NGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.a4YOzogIE6ns6gNQ3pr3_D655ezt5D8YZQlUKf2V0qU">
 
 
-- 🔭 I’m currently working on **Complete Blockchain dapp and Blockchain Maerket Prediction**
+- 🔭 I’m currently working on **Complete Blockchain decentralized app and Blockchain Market Prediction**
 
 - 🌱 I’m currently learning **DL**
 
