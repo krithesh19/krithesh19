@@ -1,33 +1,29 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">
- <h1 align="center">Hi <img align="middle" alt="Wave" width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm KRITHESH</h1>
-<p align="center">A current graduate student from UCD. I am a Data Science enthusiast, Baller 🏀, and a Photographer.</p>
+# Hi there, I'm Krithesh! 👋
 
+Welcome to my GitHub profile! I'm passionate about leveraging data science and machine learning to uncover insights, solve real-world problems, and drive innovation. With a strong foundation in tools like Python, R, SQL, and Tableau, along with a flair for predictive analytics and business intelligence, I aim to create impactful solutions for complex challenges.
 
+![Profile views](https://komarev.com/ghpvc/?username=Kritheshvar&color=blue)
 
-  <img align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png">
-</h1>
+## About Me
+- 🎓 **Data Science Graduate** with an M.Sc. in Data and Computational Science from University College Dublin.
+- 💡 **Aspiring Data Scientist** passionate about applying data analytics to transform businesses.
+- 📜 Published a research paper on **IoT for Disaster Management**.
+- 🌱 Currently expanding my skills in **Bayesian Analysis** and **Machine Learning**.
 
+## Tools and Languages
+- 🐍 Python  
+- 📊 Tableau, Power BI  
+- 🛠️ SQL, R  
+- 💻 Jupyter Notebook, Visual Studio Code  
+- 🖥️ AWS (currently learning)  
 
+## Projects
+- [Bitcoin Future Sentiment Analysis](#): A predictive analysis project exploring cryptocurrency trends using Python and LSTM models.
+- [2024 PM Election Prediction](#): A machine learning project leveraging Twitter data to analyze election mood and predict outcomes.
+- [Fertilizer Price Trends](#): Visualized trends and performed correlation analysis using R and `ggplot2`.
 
-<h3 align="center">A passionate DATA SCIENTIST from India</h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYzMzQ3NDksIm5iZiI6MTcwNjMzNDQ0OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI3VDA1NDcyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1ZDZiYjllZmE5MjcwZTY0YTA0MDY0NTU0ZGRkNjQ4NzdmZjVjYjViYjdjYjdiZGM0ZDBlZjhjZTkxNTU3NGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.a4YOzogIE6ns6gNQ3pr3_D655ezt5D8YZQlUKf2V0qU">
+## Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/krithesh-analyst/)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:krithesh.analyst@gmail.com)
 
-
-- 🔭 I recently done a project on **Complete Blockchain decentralized app and Blockchain Market Prediction**
-
-- 🌱 I’m currently learning **DL**
-
-- 👯 I’m looking to collaborate on **AI/ML Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/krithesh19?tab=repositories](https://github.com/krithesh19?tab=repositories)
-
-- 📫 How to reach me **kritheshjr1907@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krithesh v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krithesh v" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
