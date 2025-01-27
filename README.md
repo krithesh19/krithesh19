@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging data science and m
 - 🖥️ AWS (currently learning)  
 
 ## Projects
-- [Bitcoin Future Sentiment Analysis](#): A predictive analysis project exploring cryptocurrency trends using Python and LSTM models.
-- [2024 PM Election Prediction](#): A machine learning project leveraging Twitter data to analyze election mood and predict outcomes.
-- [Fertilizer Price Trends](#): Visualized trends and performed correlation analysis using R and `ggplot2`.
+- [Business Insights 360](#): An analysis project providing comprehensive insights into business operations.
+- [Hospitality Analysis](#): Analyzed data to optimize operations and improve guest experience in the hospitality sector.
+- [Festive Campaign Analysis](#): Analyzed marketing campaign effectiveness during festive seasons.
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/krithesh-analyst/)
