@@ -15,7 +15,12 @@ Welcome to my GitHub profile! I'm passionate about leveraging data science and m
 - 📊 Tableau, Power BI  
 - 🛠️ SQL, R  
 - 💻 Jupyter Notebook, Visual Studio Code  
-- 🖥️ AWS (currently learning)  
+- 🖥️ AWS (currently learning)
+
+
+## Publications & Research
+- Complete Blockchain dApp and Bitcoin Market Prediction – Published in Tuijin Jishu/Journal of Propulsion Technology, Vol. 44 No. 6 (2023).
+- Adaptive Data Analytics with Reinforcement Learning for Dynamic Business Optimization – Co-authored, submitted for publication.
 
 ## Projects
 - [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiZjNmODU5MWEtZDk0ZC00MDE1LWJiNDgtNzBmMmI5YTkzZTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9): An analysis project providing comprehensive insights into business operations.
