@@ -18,9 +18,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data science and m
 - 🖥️ AWS (currently learning)  
 
 ## Projects
-- [Business Insights 360](#): An analysis project providing comprehensive insights into business operations.
-- [Hospitality Analysis](#): Analyzed data to optimize operations and improve guest experience in the hospitality sector.
-- [Festive Campaign Analysis](#): Analyzed marketing campaign effectiveness during festive seasons.
+- [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiZjNmODU5MWEtZDk0ZC00MDE1LWJiNDgtNzBmMmI5YTkzZTJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9): An analysis project providing comprehensive insights into business operations.
+- [Festive Campaign Analysis](https://app.powerbi.com/view?r=eyJrIjoiYmUwODk3MTMtNTQ1MC00ODg5LTk3YWItMDgzNThiNjczMjUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9): Analyzed marketing campaign effectiveness during festive seasons.
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/krithesh-analyst/)
