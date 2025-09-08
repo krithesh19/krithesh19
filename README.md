@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Krithesh!  
+<h1 align="center">👋 Hi, I'm Krithesh!</h1>
 
-🚀 Data Scientist & Aspiring Data Engineer | MSc Data & Computational Science @ UCD  
+<p align="center">
+  🚀 Data Scientist & Aspiring Data Engineer | MSc Data & Computational Science @ UCD  
+</p>
 
-I’m passionate about **Machine Learning, Data Engineering, and Analytics** — turning raw data into insights, scalable systems, and impactful dashboards.  
+<p align="center">
+  I’m passionate about <b>Machine Learning, Data Engineering, and Analytics</b> —  
+  turning raw data into insights, scalable systems, and impactful dashboards.  
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=krithesh19&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krithesh19&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
 
 ---
 
@@ -53,16 +60,21 @@ I’m passionate about **Machine Learning, Data Engineering, and Analytics** —
 ---
 
 ## 🛠️ Current Work
-- 📊 Building **Data Engineering pipelines** for real-time analytics  
-- 🧠 Exploring **Bayesian ML methods**  
-- ⚡ Deploying **Streamlit apps** for ML + BI  
+- 📊 Designing **ETL pipelines** and real-time analytics dashboards  
+- 🧠 Exploring **Bayesian Machine Learning** methods  
+- ⚡ Deploying **Streamlit apps** for ML + BI use cases  
 
 ---
 
 ## 🤝 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/krithesh-analyst/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:krithesh.analyst@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/krithesh-analyst/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:krithesh.analyst@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
-✨ Always open to collaborations in **Machine Learning, Data Analytics, and Data Engineering**.
+<p align="center">✨ Always open to collaborations in <b>Machine Learning, Data Analytics, and Data Engineering</b>.</p>
+
