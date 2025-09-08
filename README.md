@@ -12,25 +12,19 @@
 ---
 
 ## 🔖 Tech Stack
+## 🔖 Tech Stack
 <p align="center">
-  <!-- Languages -->
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
-  <a href="https://www.w3schools.com/sql/"><img alt="SQL" src="https://img.shields.io/badge/SQL-3E3E3E?style=for-the-badge&logo=databricks&logoColor=white"></a>
-</p>
-<p align="center">
-  <!-- RAG / ML -->
-  <a href="https://www.langchain.com/"><img alt="LangChain" src="https://img.shields.io/badge/Framework-LangChain-16a34a?style=for-the-badge"></a>
-  <a href="https://www.pinecone.io/"><img alt="Pinecone" src="https://img.shields.io/badge/VectorDB-Pinecone-f97316?style=for-the-badge"></a>
-  <a href="https://ai.google.dev/gemini-api"><img alt="Gemini" src="https://img.shields.io/badge/LLM-Gemini_1.5_Flash-df2a2a?style=for-the-badge&logo=google&logoColor=white"></a>
-  <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
-</p>
-<p align="center">
-  <!-- BI / Cloud / Tools -->
-  <a href="https://powerbi.microsoft.com/"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"></a>
-  <a href="https://www.tableau.com/"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
-  <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-7C3AED?style=for-the-badge"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-3E3E3E?style=flat&logo=databricks&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-16a34a?style=flat"/>
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-f97316?style=flat"/>
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini_1.5_Flash-df2a2a?style=flat&logo=google&logoColor=white"/>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=000"/>
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img alt="MIT" src="https://img.shields.io/badge/License-MIT-7C3AED?style=flat"/>
 </p>
 
 ---
