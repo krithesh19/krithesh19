@@ -1,44 +1,61 @@
-👋 Hi, I’m Krithesh  
+# Hi, I’m Krithesh 👋  
+### Data Analyst | Business Intelligence  
+🎓 MSc Data & Computational Science – University College Dublin (UCD)
 
-📊 Data Analyst | Business Intelligence | MSc Data & Computational Science @ UCD  
-
-I’m a data analyst with hands-on experience in SQL, Power BI, Excel, and Python, focused on building analytics solutions, dashboards, and reporting-ready datasets that support business decision-making.
-
-I enjoy working across the full analytics lifecycle — from data extraction and cleaning to modeling, visualization, and insight delivery.
-
----
-
-## 🔧 Tech Stack
-- **Data & BI:** SQL, Power BI (DAX, Power Query), Excel  
-- **Programming:** Python (Pandas, NumPy)  
-- **Data Modeling:** Star Schema, Fact & Dimension tables  
-- **ETL & Databases:** Microsoft SQL Server, SQL-based ETL pipelines  
-- **Cloud (Foundational):** AWS (S3), Snowflake  
+I am a Data Analyst focused on transforming fragmented data into actionable business intelligence.  
+With a background in Computer Science and a Master’s degree from UCD, I specialize in building reliable data pipelines (SQL/ETL) and delivering executive-ready insights through Power BI dashboards.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
+- 📍 Based in Dublin, Ireland  
+- 📊 Focused on SQL-driven analytics, data modeling, and business reporting  
+- 🧠 Currently strengthening cloud-based analytics foundations (AWS, Snowflake)
 
-### 📊 Business Insights 360 – Power BI  
-End-to-end business intelligence dashboard delivering KPI-driven insights across finance, sales, marketing, and supply chain functions.  
+---
+
+## 🛠️ Tech Stack
+
+**Data & BI**
+- SQL  
+- Microsoft Power BI (DAX, Power Query)  
+- Microsoft Excel  
+
+**Programming**
+- Python (Pandas, NumPy)
+
+**Data Modeling & ETL**
+- Star Schema (Fact & Dimension tables)  
+- SQL-based ETL pipelines  
+- Microsoft SQL Server  
+
+**Cloud (Foundational)**
+- AWS (S3)  
+- Snowflake  
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Business Insights 360 – Power BI  
+**Objective:** Built an end-to-end business intelligence solution delivering KPI-driven insights across Finance, Sales, Marketing, and Supply Chain.  
+**Impact:** Reduced manual reporting effort by ~80% by consolidating metrics into a unified Power BI model.  
 **Tools:** Power BI, DAX, Power Query  
+🔗 Repository: https://github.com/krithesh19/bi-360  
 
-### 🗄️ Mini Data Warehouse – SQL Server (Bronze / Silver / Gold)  
-Designed a layered SQL data warehouse with ETL pipelines, star schema modeling, and data quality checks to support analytical reporting.  
-**Tools:** SQL Server, SQL, Data Modeling, ETL  
+---
+
+### 🔹 Mini Data Warehouse – SQL Server (Bronze / Silver / Gold)  
+**Objective:** Designed a layered SQL data warehouse to transform raw CSV data into analytics-ready datasets.  
+**Impact:** Implemented SQL-based ETL workflows, star schema models, and data quality checks to support reporting use cases.  
+**Tools:** Microsoft SQL Server, SQL, ETL, Data Modeling  
+🔗 Repository: https://github.com/krithesh19/data-warehouse-sql  
 
 ---
 
 ## 👨‍🎓 Education
-🎓 **MSc in Data & Computational Science** – University College Dublin  
-🎓 **B.Tech in Computer Science (Data Science)** – Dr. M.G.R. University  
-
----
-
-## 🧠 Current Focus
-- Building scalable SQL-based analytics workflows  
-- Developing business-ready Power BI dashboards  
-- Strengthening data modeling and reporting best practices  
+- **MSc Data & Computational Science** – University College Dublin  
+- **B.Tech Computer Science (Data Science)** – Dr. M.G.R. University  
 
 ---
 
