@@ -1,130 +1,91 @@
-# 👋 Hi, I’m Krithesh  
-## Data Analyst | Business Intelligence | SQL & Power BI  
+<div align="center">
 
-🎓 MSc Data & Computational Science – University College Dublin  
-📍 Dublin, Ireland  
+# Kritheshvar
+### Data Analyst · SQL · Power BI · Data Modeling
 
-I design structured analytics systems that transform raw, fragmented data into actionable business intelligence. My focus lies in SQL-driven analytics, scalable data modeling, and building executive-ready dashboards that support strategic decision-making.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krithesh-analyst)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krithesh19)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krithesh.data@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
 
-I approach analytics with a business-first mindset — ensuring every model, query, and dashboard answers a real business question and enables measurable clarity for stakeholders.
+📍 Dublin, Ireland &nbsp;|&nbsp; 🎓 MSc Data & Computational Science — UCD &nbsp;|&nbsp; ✅ Stamp 1G
 
----
+**Actively seeking Data Analyst roles in Ireland 🟢**
 
-## 🚀 Core Focus Areas
-
-- SQL-based analytics & performance optimization  
-- Data modeling (Star Schema, Fact-Dimension architecture)  
-- Business KPI design & executive dashboarding  
-- Revenue, profitability & risk analysis  
-- ETL workflows & data quality validation  
+</div>
 
 ---
 
-## 🛠 Technical Toolkit
+## About Me
 
-### 📊 Data & BI
-- SQL (CTEs, Window Functions, Aggregations, Query Optimization)  
-- Microsoft Power BI (DAX, Power Query, Data Modeling)  
-- Microsoft Excel  
+Data Analyst specialising in SQL analytics, Power BI dashboards, and scalable data modelling. I build reporting systems that turn fragmented, raw data into executive-ready business intelligence — with a business-first mindset that ensures every query and dashboard answers a real decision-making need.
 
-### 🏗 Data Engineering Foundations
-- Star Schema Design  
-- SQL-based ETL Pipelines  
-- Microsoft SQL Server  
-
-### 💻 Programming
-- Python (Pandas, NumPy)  
-
-### ☁ Cloud (Foundational Exposure)
-- AWS (S3)  
-- Snowflake  
+- 🔥 Reduced query execution time by **75%** (7–8s → 1.9s) through indexing & optimisation
+- 📉 Cut manual reporting effort by **~30%** through Power BI automation
+- 📊 Built dashboards processing **1.4M+ sales records** across Finance, Sales & Operations
 
 ---
 
-# 📊 Featured Projects
+## 🛠 Technical Skills
+
+| Category | Tools & Technologies |
+|---|---|
+| **SQL & Databases** | SQL (CTEs, Window Functions, Query Optimisation), MySQL, SQL Server, Snowflake |
+| **Business Intelligence** | Power BI (DAX, Power Query), KPI Dashboards, Star Schema Modelling |
+| **Programming** | Python (Pandas, NumPy, Matplotlib), Excel (Pivot Tables, Power Query) |
+| **Data Engineering** | ETL Workflows, Data Transformation, Automated Reporting, Data Validation |
+| **Cloud & Tools** | AWS S3, Git, GitHub |
+| **Certifications** | Google Data Analytics Certificate |
 
 ---
 
-## 🔹 Finance Analytics System – SQL  
+## 📊 Featured Projects
 
-Built an end-to-end revenue analytics system on 1.4M+ transaction records, transforming gross sales into net revenue through multi-layer discount logic.
+### ⚡ Enterprise Finance Analytics System — 75% Query Performance Gain
+> SQL · Window Functions · Query Optimisation · Snowflake
 
-### 🔍 Analytical Approach
-- Cleaned and validated raw sales datasets  
-- Applied layered discount transformations to derive accurate net revenue  
-- Used window functions (DENSE_RANK, OVER) to identify top markets and customers  
-- Performed revenue concentration and margin analysis  
-- Optimized query performance by restructuring fiscal year filtering and indexing logic  
+- Processed **1.4M+ sales records** with layered Net Sales transformation pipeline
+- Applied `DENSE_RANK` & window functions to rank markets and customers by revenue
+- Reduced execution time from **~7–8s to ~1.9s** by replacing function-based filtering with indexed fiscal year column
 
-### 💼 Business Implications
-- Enables identification of high-revenue but low-margin segments  
-- Highlights revenue concentration risk across customer groups  
-- Supports pricing and discount strategy evaluation  
-- Provides structured reporting foundation for finance decision-making  
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krithesh19/atliq-finance-analytics-sql)
 
 ---
 
-## 🔹 Business Insights 360 – Enterprise BI Dashboard  
+### 📈 Business Insights 360 — Enterprise BI Dashboard
+> Power BI · DAX · Star Schema · Cross-functional KPIs
 
-Developed a cross-functional Power BI solution integrating Finance, Sales, Marketing, and Supply Chain KPIs into a unified enterprise-style reporting model.
+- Integrated Finance, Sales, Marketing & Supply Chain KPIs into one unified executive dashboard
+- Designed scalable star schema model with advanced DAX measures for forecast accuracy
+- Enabled leadership to monitor cross-functional KPI alignment and margin performance
 
-### 🔍 Analytical Approach
-- Consolidated multiple business functions into a centralized Power BI data model  
-- Designed profitability analysis and forecast accuracy tracking  
-- Built interactive drill-down dashboards for division and channel-level monitoring  
-- Created executive KPI cards for high-level performance visibility  
-
-### 💼 Strategic Value
-- Enables leadership to monitor cross-functional KPI alignment  
-- Identifies forecast deviations impacting financial planning  
-- Supports margin optimization across product and market segments  
-- Reduces dependency on fragmented manual reporting  
-
-🔗 **Live Dashboard:**  
-https://lnkd.in/emEfiPix  
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krithesh19/business-insights-360-powerbi)
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiODcyZmU4YjAtZTM3Ny00MzhlLWJhOWYtZGNmZWExYzExNGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
-## 🔹 Loan Risk Analytics Dashboard  
+### 🏦 Loan Risk Analytics Dashboard — Banking Portfolio Monitor
+> Power BI · Time Intelligence · DAX · Borrower Segmentation
 
-Designed an end-to-end loan portfolio analytics system simulating banking risk monitoring workflows.
+- Built multi-page dashboard for banking loan portfolio monitoring with full drill-down capability
+- Developed YOY Loan Growth, YOY Default Change & YTD Loan Amount time-intelligence metrics
+- Applied borrower segmentation by credit score, income & demographics to surface high-risk segments
 
-### 🔍 Analytical Approach
-- Implemented ETL pipeline using SQL Server and Power Query  
-- Built time-intelligence metrics (YOY Loan Change, YTD Loan Amount, YOY Default Change)  
-- Applied DAX-based borrower segmentation (age, income, employment, credit score)  
-- Designed interactive drill-down visuals for portfolio monitoring  
-
-### 💼 Decision Support Enabled
-- Assists in identifying high-risk borrower segments  
-- Supports monitoring of portfolio growth against default trends  
-- Enables early detection of adverse credit patterns  
-- Provides structured risk visibility for credit strategy adjustments  
-
-🔗 **Live Dashboard:**  
-https://lnkd.in/eT9zhZMS  
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krithesh19/loan-risk-analytics-dashboard)
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMGZjOGJjNjMtNjk2Yi00YmJlLTlmOTEtOTJkY2JmZjA1MDEzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-**MSc Data & Computational Science**  
-University College Dublin  
+🎓 **MSc Data & Computational Science** — University College Dublin, Ireland · 2025
 
-**B.Tech Computer Science (Data Science)**  
-Dr. M.G.R. University  
+💻 **B.Tech Computer Science (Data Science)** — Dr. M.G.R. University, India · 2024
 
 ---
 
-# 🤝 Open To Opportunities
+## 🤝 Open to Opportunities
 
-Actively seeking opportunities in:
+I'm actively looking for roles in **Data Analyst · Business Intelligence Analyst · Reporting Analyst** in Ireland.
 
-- Data Analyst  
-- Business Intelligence Analyst  
-- Reporting Analyst  
-
-I am particularly interested in roles where I can contribute to building scalable reporting systems and delivering data-driven strategic insights.
-
-📧 krithesh.data@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/krithesh-analyst  
+📧 krithesh.data@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/krithesh-analyst)
