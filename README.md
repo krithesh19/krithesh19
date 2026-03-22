@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krithesh-analyst)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krithesh19)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krithesh.data@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://krithesh-analyst.netlify.app)
 
 📍 Dublin, Ireland &nbsp;|&nbsp; 🎓 MSc Data & Computational Science — UCD &nbsp;|&nbsp; ✅ Stamp 1G
 
@@ -88,4 +88,4 @@ Data Analyst specialising in SQL analytics, Power BI dashboards, and scalable da
 
 I'm actively looking for roles in **Data Analyst · Business Intelligence Analyst · Reporting Analyst** in Ireland.
 
-📧 krithesh.data@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/krithesh-analyst)
+📧 krithesh.data@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/krithesh-analyst) &nbsp;|&nbsp; 🌐 [Portfolio](https://krithesh-analyst.netlify.app)
