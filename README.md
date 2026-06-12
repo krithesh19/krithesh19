@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a3a5c&height=100&text=Kritheshvar&fontSize=42&fontColor=ffffff&fontAlignY=55"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a3a5c&height=70&text=Vinothkumar&fontSize=42&fontColor=c84b2f&fontAlignY=55&desc=Data%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Business%20Intelligence&descAlignY=88&descSize=15&descColor=c8d8e8"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1a3a5c&height=160&text=Kritheshvar%20Vinothkumar&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Data%20Engineer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Business%20Intelligence&descAlignY=68&descSize=16&descColor=c8d8e8"/>
 
 <br/>
 
