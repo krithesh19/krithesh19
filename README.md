@@ -17,8 +17,6 @@
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=krithesh19&color=c84b2f&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
